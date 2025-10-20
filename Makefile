@@ -3,9 +3,6 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra
 
-# Directories
-EXERCISE_DIRS = exercises/01_hello_world exercises/02_variables exercises/03_control_flow exercises/04_functions
-
 # Output directory
 BUILD_DIR = build
 
